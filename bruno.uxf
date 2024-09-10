@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="15.1">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>440</x>
+      <y>90</y>
+      <w>270</w>
+      <h>90</h>
+    </coordinates>
+    <panel_attributes>Control speed</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLUseCase</id>
+    <coordinates>
+      <x>430</x>
+      <y>330</y>
+      <w>270</w>
+      <h>110</h>
+    </coordinates>
+    <panel_attributes>Calibrate mile
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLActor</id>
+    <coordinates>
+      <x>150</x>
+      <y>160</y>
+      <w>120</w>
+      <h>120</h>
+    </coordinates>
+    <panel_attributes>Driver interface
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>240</x>
+      <y>140</y>
+      <w>230</w>
+      <h>80</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;60.0;210.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>270</x>
+      <y>250</y>
+      <w>180</w>
+      <h>140</h>
+    </coordinates>
+    <panel_attributes/>
+    <additional_attributes>10.0;10.0;160.0;120.0</additional_attributes>
+  </element>
+</diagram>
